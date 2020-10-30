@@ -1,6 +1,7 @@
 # guided project: Data Pipelines and Postgres
 
-This is a guided project that I followed from [Seanwasere youtube](https://www.youtube.com/watch?v=QF-qHWekhxw&t=615s&ab_channel=seanwasereytbe)
+This is a guided project that I followed from [Seanwasere youtube](https://www.youtube.com/watch?v=QF-qHWekhxw&ab_channel=seanwasereytbe), [git](https://github.com/Sean-Bradley/Stream-Data-From-Flask-To-Postgres)
+
 
 - This project:
     - Company A creates data through a mock api
